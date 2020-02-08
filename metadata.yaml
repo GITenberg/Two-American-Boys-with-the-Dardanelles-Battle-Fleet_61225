@@ -1,0 +1,31 @@
+_repo: Two-American-Boys-with-the-Dardanelles-Battle-Fleet_61225
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  author:
+    agent_name: Crockett, Sherman
+    gutenberg_agent_id: '51077'
+    url: http://www.gutenberg.org/2009/agents/51077
+description: ''
+gutenberg_issued: '2020-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula -- Juvenile
+  fiction'
+- GITenberg
+title: Two American Boys with the Dardanelles Battle Fleet
+url: http://www.gutenberg.org/ebooks/61225
